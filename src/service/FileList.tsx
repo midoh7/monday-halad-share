@@ -38,6 +38,7 @@ export function FileList() {
   return (
     <div className='max-w-3xl mx-auto mt-8 p-4'>
       <h2 className='text-xl font-bold mb-4'>Uploaded Files</h2>
+      {/* test */}
       {/* <table className='table-auto w-full border-collapse border border-gray-300'>
         <thead>
           <tr>
